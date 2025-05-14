@@ -2,6 +2,7 @@
 This is a fully responsive Myntra Clone built using HTML, CSS, and JavaScript. The goal of this project was to recreate the user interface of the popular Indian e-commerce platform Myntra, focusing on responsive design, layout structure, and interactivity.
 
 🔥 Features
+
 💻 Fully responsive across all screen sizes (mobile, tablet, desktop)
 
 🧭 Clean and functional navigation bar
@@ -20,7 +21,9 @@ This is a fully responsive Myntra Clone built using HTML, CSS, and JavaScript. T
 
 📱 Mobile navigation menu
 
+
 📁 Technologies Used
+
 HTML5
 
 CSS3 (Flexbox & Media Queries)
@@ -32,16 +35,22 @@ Google Fonts & Icons
 📸 Screenshots
 
 🚀 Getting Started
+
 To view the project locally:
 
 git clone https://github.com/akashbghl/myntra-clone.git
+
 cd myntra-clone
+
 open index.html
 
 
 📚 Project Status
+
 ✅ Completed — Frontend only
+
 🔜 Backend and product filtering functionality can be added in the future.
 
 🙌 Author
+
 Made with ❤️ by Akash Baghel
