@@ -38,7 +38,9 @@ Google Fonts & Icons
 
 To view the project locally:
 
-git clone https://github.com/akashbghl/myntra-clone.git
+git clone 
+
+https://github.com/akashbghl/Myntra---Ecommerce-Clone.git
 
 cd myntra-clone
 
