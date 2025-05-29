@@ -4,10 +4,11 @@ const totalSlides = slides.length;
 const slideButtons = document.querySelectorAll('.sbtn');
 
 function goToSlide(slideIndex) {
-document.querySelector('.slider').scrollTo({
-    left: slides[slideIndex].offsetLeft,
-    behavior: 'smooth'
-});
+    currentSlide = slideIndex;
+    slideButtons.forEach((button, index) => {
+        button.classList.toggle('active', index === currentSlide);
+    });
+    slides[slideIndex].scrollIntoView({ behavior: "smooth", block: "end", inline: "nearest" });
 }
 
 // Auto-slide
