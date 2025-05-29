@@ -258,4 +258,7 @@ footer .left-container i{
     cursor: pointer;
 }
 
+.hidden {
+    display: none;
+}
 
